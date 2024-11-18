@@ -1,5 +1,6 @@
 // import { useState } from 'react'
 import './App.css'
+import TableComponent from './components/TableComponent'
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-
+      <TableComponent/>
     </>
   )
 }
